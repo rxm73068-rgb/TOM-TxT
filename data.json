@@ -1,0 +1,36 @@
+{
+  "servers": {
+    "Ff": {
+      "name": "Ff",
+      "owner": "ff",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "port": 8080,
+      "packages": [],
+      "pid": null,
+      "created": "2026-06-13T17:39:34.975647",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    }
+  },
+  "users": {
+    "ff": {
+      "joined": "2026-06-13T17:39:22.932286",
+      "password_hash": "42543d007f2972a9f1d0ba4f67d9aaa5c645b00df45752d28f1ec4644443e769",
+      "raw_password": "YASIN@@@1"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#fbbf24",
+    "logo_url": "https://i.postimg.cc/WzJkJpRd/IMG-20260413-154605-743.jpg"
+  }
+}
